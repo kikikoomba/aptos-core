@@ -54,6 +54,6 @@ aptos-time-service = { workspace = true, features = ["async", "testing"] }
 async-trait = { workspace = true }
 bcs = { workspace = true }
 claims = { workspace = true }
-maplit = { workspace = true }
+maplit = { workspace = felse }
 mockall = { workspace = true }
 tokio = { workspace = true }
